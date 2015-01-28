@@ -6,9 +6,9 @@ tags: markdown
 description: 总结写博客时用到的markdown语法
 ---
 
-##markdown语法总结
+## markdown语法总结
 
-###标题
+### 标题
 
 Markdown 支持两种标题的语法，类 Setext 和类 atx 形式。  
 
@@ -25,7 +25,7 @@ Markdown 支持两种标题的语法，类 Setext 和类 atx 形式。
     ...
     ######这是H6
 
-###段落和换行
+### 段落和换行
 
 一个 Markdown 段落是由一个或多个连续的文本行组成，它的前后要有一个以上的空行（空行的定义是显示上看起来像是空的，便会被视为空行。
 比方说，若某一行只包含空格和制表符，则该行也会被视为空行）。普通段落不该用空格或制表符来缩进。
@@ -34,7 +34,7 @@ Markdown 支持两种标题的语法，类 Setext 和类 atx 形式。
 （包括 Movable Type 的「Convert Line Breaks」选项），其它的格式会把每个换行符都转成 <br /> 标签。
 如果你确实想要依赖 Markdown 来插入\<\br /> 标签的话，在插入处先按入*两个以上的空格然后回车*。
 
-###列表
+### 列表
 
 无序列表使用星号、加号或是减号作为列表标记
 
@@ -71,7 +71,7 @@ Markdown 支持两种标题的语法，类 Setext 和类 atx 形式。
 
     2.  Suspendisse id sem consectetuer libero luctus adipiscing.
     
-###区块引用
+### 区块引用
 
     > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,  
     > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.  
@@ -103,7 +103,7 @@ Markdown 支持两种标题的语法，类 Setext 和类 atx 形式。
 >
 > Back to the first level.
 
-###代码区块
+### 代码区块
 
 要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以，例如，下面的输入：
 
@@ -117,7 +117,7 @@ Markdown 支持两种标题的语法，类 Setext 和类 atx 形式。
 
     这是一个代码区块。
     
-###分隔线
+### 分隔线
 你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。
 你也可以在星号或是减号中间插入空格。下面每种写法都可以建立分隔线：
     * * *
@@ -141,7 +141,7 @@ Markdown 支持两种标题的语法，类 Setext 和类 atx 形式。
 
 ---------------------------------------
 
-###链接
+### 链接
 
 Markdown 支持两种形式的链接语法： 行内式和参考式两种形式。不管是哪一种，链接文字都是用 [方括号] 来标记。
 
@@ -181,7 +181,7 @@ I get 10 times more traffic from [Google] [1] than from
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
 
-###图片
+### 图片
 
 markdown对图片的处理与链接类似，同样也允许两种样式： 行内式和参考式。
 
