@@ -1,16 +1,16 @@
 ---
 layout: post
-title: markdownÓï·¨×Ü½á
-category£º¼¼Êõ
-tags£ºmarkdown
-description£º×Ü½áÐ´²©¿ÍÊ±ÓÃµ½µÄmarkdownÓï·¨
+title: markdownè¯­æ³•æ€»ç»“
+categoryï¼šæŠ€æœ¯
+tagsï¼šmarkdown
+descriptionï¼šæ€»ç»“å†™åšå®¢æ—¶ç”¨åˆ°çš„markdownè¯­æ³•
 ---
 
-##markdownÓï·¨×Ü½á
+##markdownè¯­æ³•æ€»ç»“
 
-###±êÌâ
+###æ ‡é¢˜
 
-Markdown Ö§³ÖÁ½ÖÖ±êÌâµÄÓï·¨£¬Àà Setext ºÍÀà atx ÐÎÊ½¡£  
+Markdown æ”¯æŒä¸¤ç§æ ‡é¢˜çš„è¯­æ³•ï¼Œç±» Setext å’Œç±» atx å½¢å¼ã€‚  
 
     this is a H1
     ============
@@ -18,48 +18,48 @@ Markdown Ö§³ÖÁ½ÖÖ±êÌâµÄÓï·¨£¬Àà Setext ºÍÀà atx ÐÎÊ½¡£
     this is a H2
     ------------
     
-Àà Atx ÐÎÊ½ÔòÊÇÔÚÐÐÊ×²åÈë 1 µ½ 6 ¸ö # £¬¶ÔÓ¦µ½±êÌâ 1 µ½ 6 ½×£¬ÀýÈç£º
+ç±» Atx å½¢å¼åˆ™æ˜¯åœ¨è¡Œé¦–æ’å…¥ 1 åˆ° 6 ä¸ª # ï¼Œå¯¹åº”åˆ°æ ‡é¢˜ 1 åˆ° 6 é˜¶ï¼Œä¾‹å¦‚ï¼š
 
-    # ÕâÊÇH1
-    ## ÕâÊÇH2
+    # è¿™æ˜¯H1
+    ## è¿™æ˜¯H2
     ...
-    ######ÕâÊÇH6
+    ######è¿™æ˜¯H6
 
-###¶ÎÂäºÍ»»ÐÐ
+###æ®µè½å’Œæ¢è¡Œ
 
-Ò»¸ö Markdown ¶ÎÂäÊÇÓÉÒ»¸ö»ò¶à¸öÁ¬ÐøµÄÎÄ±¾ÐÐ×é³É£¬ËüµÄÇ°ºóÒªÓÐÒ»¸öÒÔÉÏµÄ¿ÕÐÐ£¨¿ÕÐÐµÄ¶¨ÒåÊÇÏÔÊ¾ÉÏ¿´ÆðÀ´ÏñÊÇ¿ÕµÄ£¬±ã»á±»ÊÓÎª¿ÕÐÐ¡£
-±È·½Ëµ£¬ÈôÄ³Ò»ÐÐÖ»°üº¬¿Õ¸ñºÍÖÆ±í·û£¬Ôò¸ÃÐÐÒ²»á±»ÊÓÎª¿ÕÐÐ£©¡£ÆÕÍ¨¶ÎÂä²»¸ÃÓÃ¿Õ¸ñ»òÖÆ±í·ûÀ´Ëõ½ø¡£
+ä¸€ä¸ª Markdown æ®µè½æ˜¯ç”±ä¸€ä¸ªæˆ–å¤šä¸ªè¿žç»­çš„æ–‡æœ¬è¡Œç»„æˆï¼Œå®ƒçš„å‰åŽè¦æœ‰ä¸€ä¸ªä»¥ä¸Šçš„ç©ºè¡Œï¼ˆç©ºè¡Œçš„å®šä¹‰æ˜¯æ˜¾ç¤ºä¸Šçœ‹èµ·æ¥åƒæ˜¯ç©ºçš„ï¼Œä¾¿ä¼šè¢«è§†ä¸ºç©ºè¡Œã€‚
+æ¯”æ–¹è¯´ï¼Œè‹¥æŸä¸€è¡ŒåªåŒ…å«ç©ºæ ¼å’Œåˆ¶è¡¨ç¬¦ï¼Œåˆ™è¯¥è¡Œä¹Ÿä¼šè¢«è§†ä¸ºç©ºè¡Œï¼‰ã€‚æ™®é€šæ®µè½ä¸è¯¥ç”¨ç©ºæ ¼æˆ–åˆ¶è¡¨ç¬¦æ¥ç¼©è¿›ã€‚
 
-¡¸ÓÉÒ»¸ö»ò¶à¸öÁ¬ÐøµÄÎÄ±¾ÐÐ×é³É¡¹Õâ¾ä»°ÆäÊµ°µÊ¾ÁË Markdown ÔÊÐí¶ÎÂäÄÚµÄÇ¿ÆÈ»»ÐÐ£¨²åÈë»»ÐÐ·û£©£¬Õâ¸öÌØÐÔºÍÆäËû´ó²¿·ÖµÄ text-to-HTML ¸ñÊ½²»Ò»Ñù
-£¨°üÀ¨ Movable Type µÄ¡¸Convert Line Breaks¡¹Ñ¡Ïî£©£¬ÆäËüµÄ¸ñÊ½»á°ÑÃ¿¸ö»»ÐÐ·û¶¼×ª³É <br /> ±êÇ©¡£
-Èç¹ûÄãÈ·ÊµÏëÒªÒÀÀµ Markdown À´²åÈë\<\br /> ±êÇ©µÄ»°£¬ÔÚ²åÈë´¦ÏÈ°´Èë*Á½¸öÒÔÉÏµÄ¿Õ¸ñÈ»ºó»Ø³µ*¡£
+ã€Œç”±ä¸€ä¸ªæˆ–å¤šä¸ªè¿žç»­çš„æ–‡æœ¬è¡Œç»„æˆã€è¿™å¥è¯å…¶å®žæš—ç¤ºäº† Markdown å…è®¸æ®µè½å†…çš„å¼ºè¿«æ¢è¡Œï¼ˆæ’å…¥æ¢è¡Œç¬¦ï¼‰ï¼Œè¿™ä¸ªç‰¹æ€§å’Œå…¶ä»–å¤§éƒ¨åˆ†çš„ text-to-HTML æ ¼å¼ä¸ä¸€æ ·
+ï¼ˆåŒ…æ‹¬ Movable Type çš„ã€ŒConvert Line Breaksã€é€‰é¡¹ï¼‰ï¼Œå…¶å®ƒçš„æ ¼å¼ä¼šæŠŠæ¯ä¸ªæ¢è¡Œç¬¦éƒ½è½¬æˆ <br /> æ ‡ç­¾ã€‚
+å¦‚æžœä½ ç¡®å®žæƒ³è¦ä¾èµ– Markdown æ¥æ’å…¥\<\br /> æ ‡ç­¾çš„è¯ï¼Œåœ¨æ’å…¥å¤„å…ˆæŒ‰å…¥*ä¸¤ä¸ªä»¥ä¸Šçš„ç©ºæ ¼ç„¶åŽå›žè½¦*ã€‚
 
-###ÁÐ±í
+###åˆ—è¡¨
 
-ÎÞÐòÁÐ±íÊ¹ÓÃÐÇºÅ¡¢¼ÓºÅ»òÊÇ¼õºÅ×÷ÎªÁÐ±í±ê¼Ç
+æ— åºåˆ—è¡¨ä½¿ç”¨æ˜Ÿå·ã€åŠ å·æˆ–æ˜¯å‡å·ä½œä¸ºåˆ—è¡¨æ ‡è®°
 
     *   red
     *   green
     *   blue
-µÈÍ¬ÓÚ
+ç­‰åŒäºŽ
 
     +   Red
     +   Green
     +   Blue
     
-µÈÍ¬ÓÚ
+ç­‰åŒäºŽ
 
     -   Red
     -   Green
     -   Blue
     
-Èç¹ûÁÐ±íÏîÄ¿¼äÓÃ¿ÕÐÐ·Ö¿ª£¬ÔÚÊä³ö HTML Ê± Markdown ¾Í»á½«ÏîÄ¿ÄÚÈÝÓÃ <p> ±êÇ©°üÆðÀ´£¬¾ÙÀýÀ´Ëµ£º
+å¦‚æžœåˆ—è¡¨é¡¹ç›®é—´ç”¨ç©ºè¡Œåˆ†å¼€ï¼Œåœ¨è¾“å‡º HTML æ—¶ Markdown å°±ä¼šå°†é¡¹ç›®å†…å®¹ç”¨ <p> æ ‡ç­¾åŒ…èµ·æ¥ï¼Œä¸¾ä¾‹æ¥è¯´ï¼š
 
 *   Bird
 
 *   Magic
 
-ÁÐ±íÏîÄ¿¿ÉÒÔ°üº¬¶à¸ö¶ÎÂä£¬Ã¿¸öÏîÄ¿ÏÂµÄ¶ÎÂä¶¼±ØÐëËõ½ø 4 ¸ö¿Õ¸ñ»òÊÇ 1 ¸öÖÆ±í·û£º
+åˆ—è¡¨é¡¹ç›®å¯ä»¥åŒ…å«å¤šä¸ªæ®µè½ï¼Œæ¯ä¸ªé¡¹ç›®ä¸‹çš„æ®µè½éƒ½å¿…é¡»ç¼©è¿› 4 ä¸ªç©ºæ ¼æˆ–æ˜¯ 1 ä¸ªåˆ¶è¡¨ç¬¦ï¼š
 
     1.  This is a list item with two paragraphs. Lorem ipsum dolor
         sit amet, consectetuer adipiscing elit. Aliquam hendrerit
@@ -71,7 +71,7 @@ Markdown Ö§³ÖÁ½ÖÖ±êÌâµÄÓï·¨£¬Àà Setext ºÍÀà atx ÐÎÊ½¡£
 
     2.  Suspendisse id sem consectetuer libero luctus adipiscing.
     
-###Çø¿éÒýÓÃ
+###åŒºå—å¼•ç”¨
 
     > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,  
     > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.  
@@ -80,7 +80,7 @@ Markdown Ö§³ÖÁ½ÖÖ±êÌâµÄÓï·¨£¬Àà Setext ºÍÀà atx ÐÎÊ½¡£
     > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse  
     > id sem consectetuer libero luctus adipiscing.  
 
-Ð§¹û£º
+æ•ˆæžœï¼š
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,  
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.  
 > Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.  
@@ -88,7 +88,7 @@ Markdown Ö§³ÖÁ½ÖÖ±êÌâµÄÓï·¨£¬Àà Setext ºÍÀà atx ÐÎÊ½¡£
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse  
 > id sem consectetuer libero luctus adipiscing.  
 
-Çø¿éÒýÓÃ¿ÉÒÔÇ¶Ì×£¨ÀýÈç£ºÒýÓÃÄÚµÄÒýÓÃ£©£¬Ö»Òª¸ù¾Ý²ã´Î¼ÓÉÏ²»Í¬ÊýÁ¿µÄ > £º
+åŒºå—å¼•ç”¨å¯ä»¥åµŒå¥—ï¼ˆä¾‹å¦‚ï¼šå¼•ç”¨å†…çš„å¼•ç”¨ï¼‰ï¼Œåªè¦æ ¹æ®å±‚æ¬¡åŠ ä¸Šä¸åŒæ•°é‡çš„ > ï¼š
 
     > This is the first level of quoting.
     >
@@ -96,30 +96,30 @@ Markdown Ö§³ÖÁ½ÖÖ±êÌâµÄÓï·¨£¬Àà Setext ºÍÀà atx ÐÎÊ½¡£
     >
     > Back to the first level.
     
-Ð§¹û£º
+æ•ˆæžœï¼š
 > This is the first level of quoting.
 >
 > > This is nested blockquote.
 >
 > Back to the first level.
 
-###´úÂëÇø¿é
+###ä»£ç åŒºå—
 
-ÒªÔÚ Markdown ÖÐ½¨Á¢´úÂëÇø¿éºÜ¼òµ¥£¬Ö»Òª¼òµ¥µØËõ½ø 4 ¸ö¿Õ¸ñ»òÊÇ 1 ¸öÖÆ±í·û¾Í¿ÉÒÔ£¬ÀýÈç£¬ÏÂÃæµÄÊäÈë£º
+è¦åœ¨ Markdown ä¸­å»ºç«‹ä»£ç åŒºå—å¾ˆç®€å•ï¼Œåªè¦ç®€å•åœ°ç¼©è¿› 4 ä¸ªç©ºæ ¼æˆ–æ˜¯ 1 ä¸ªåˆ¶è¡¨ç¬¦å°±å¯ä»¥ï¼Œä¾‹å¦‚ï¼Œä¸‹é¢çš„è¾“å…¥ï¼š
 
-    ÕâÊÇÒ»¸öÆÕÍ¨¶ÎÂä£º
+    è¿™æ˜¯ä¸€ä¸ªæ™®é€šæ®µè½ï¼š
 
-        ÕâÊÇÒ»¸ö´úÂëÇø¿é¡£
+        è¿™æ˜¯ä¸€ä¸ªä»£ç åŒºå—ã€‚
 
-Ð§¹û£º
+æ•ˆæžœï¼š
 
-ÕâÊÇÒ»¸öÆÕÍ¨¶ÎÂä£º
+è¿™æ˜¯ä¸€ä¸ªæ™®é€šæ®µè½ï¼š
 
-    ÕâÊÇÒ»¸ö´úÂëÇø¿é¡£
+    è¿™æ˜¯ä¸€ä¸ªä»£ç åŒºå—ã€‚
     
-###·Ö¸ôÏß
-Äã¿ÉÒÔÔÚÒ»ÐÐÖÐÓÃÈý¸öÒÔÉÏµÄÐÇºÅ¡¢¼õºÅ¡¢µ×ÏßÀ´½¨Á¢Ò»¸ö·Ö¸ôÏß£¬ÐÐÄÚ²»ÄÜÓÐÆäËû¶«Î÷¡£
-ÄãÒ²¿ÉÒÔÔÚÐÇºÅ»òÊÇ¼õºÅÖÐ¼ä²åÈë¿Õ¸ñ¡£ÏÂÃæÃ¿ÖÖÐ´·¨¶¼¿ÉÒÔ½¨Á¢·Ö¸ôÏß£º
+###åˆ†éš”çº¿
+ä½ å¯ä»¥åœ¨ä¸€è¡Œä¸­ç”¨ä¸‰ä¸ªä»¥ä¸Šçš„æ˜Ÿå·ã€å‡å·ã€åº•çº¿æ¥å»ºç«‹ä¸€ä¸ªåˆ†éš”çº¿ï¼Œè¡Œå†…ä¸èƒ½æœ‰å…¶ä»–ä¸œè¥¿ã€‚
+ä½ ä¹Ÿå¯ä»¥åœ¨æ˜Ÿå·æˆ–æ˜¯å‡å·ä¸­é—´æ’å…¥ç©ºæ ¼ã€‚ä¸‹é¢æ¯ç§å†™æ³•éƒ½å¯ä»¥å»ºç«‹åˆ†éš”çº¿ï¼š
     * * *
 
     ***
@@ -130,7 +130,7 @@ Markdown Ö§³ÖÁ½ÖÖ±êÌâµÄÓï·¨£¬Àà Setext ºÍÀà atx ÐÎÊ½¡£
     
     ---------------------------------------
     
-Ð§¹û£º
+æ•ˆæžœï¼š
 * * *
 
 ***
@@ -141,29 +141,29 @@ Markdown Ö§³ÖÁ½ÖÖ±êÌâµÄÓï·¨£¬Àà Setext ºÍÀà atx ÐÎÊ½¡£
 
 ---------------------------------------
 
-###Á´½Ó
+###é“¾æŽ¥
 
-Markdown Ö§³ÖÁ½ÖÖÐÎÊ½µÄÁ´½ÓÓï·¨£º ÐÐÄÚÊ½ºÍ²Î¿¼Ê½Á½ÖÖÐÎÊ½¡£²»¹ÜÊÇÄÄÒ»ÖÖ£¬Á´½ÓÎÄ×Ö¶¼ÊÇÓÃ [·½À¨ºÅ] À´±ê¼Ç¡£
+Markdown æ”¯æŒä¸¤ç§å½¢å¼çš„é“¾æŽ¥è¯­æ³•ï¼š è¡Œå†…å¼å’Œå‚è€ƒå¼ä¸¤ç§å½¢å¼ã€‚ä¸ç®¡æ˜¯å“ªä¸€ç§ï¼Œé“¾æŽ¥æ–‡å­—éƒ½æ˜¯ç”¨ [æ–¹æ‹¬å·] æ¥æ ‡è®°ã€‚
 
 
-*ÐÐÄÚÊ½*µÄÁ´½Ó£¬Ö»ÒªÔÚ·½¿éÀ¨ºÅºóÃæ½ô½Ó×ÅÔ²À¨ºÅ²¢²åÈëÍøÖ·Á´½Ó¼´¿É£¬
-Èç¹ûÄã»¹ÏëÒª¼ÓÉÏÁ´½ÓµÄ title ÎÄ×Ö£¬Ö»ÒªÔÚÍøÖ·ºóÃæ£¬ÓÃË«ÒýºÅ°Ñ title ÎÄ×Ö°üÆðÀ´¼´¿É£¬ÀýÈç£º
+*è¡Œå†…å¼*çš„é“¾æŽ¥ï¼Œåªè¦åœ¨æ–¹å—æ‹¬å·åŽé¢ç´§æŽ¥ç€åœ†æ‹¬å·å¹¶æ’å…¥ç½‘å€é“¾æŽ¥å³å¯ï¼Œ
+å¦‚æžœä½ è¿˜æƒ³è¦åŠ ä¸Šé“¾æŽ¥çš„ title æ–‡å­—ï¼Œåªè¦åœ¨ç½‘å€åŽé¢ï¼Œç”¨åŒå¼•å·æŠŠ title æ–‡å­—åŒ…èµ·æ¥å³å¯ï¼Œä¾‹å¦‚ï¼š
 
     This is [an example](http://example.com/ "Title") inline link.
     
 This is [an example](http://example.com/ "Title") inline link.
 
 
-*²Î¿¼Ê½*µÄÁ´½ÓÊÇÔÚÁ´½ÓÎÄ×ÖµÄÀ¨ºÅºóÃæÔÙ½ÓÉÏÁíÒ»¸ö·½À¨ºÅ£¬¶øÔÚµÚ¶þ¸ö·½À¨ºÅÀïÃæÒªÌîÈëÓÃÒÔ±æÊ¶Á´½ÓµÄ±ê¼Ç£º
+*å‚è€ƒå¼*çš„é“¾æŽ¥æ˜¯åœ¨é“¾æŽ¥æ–‡å­—çš„æ‹¬å·åŽé¢å†æŽ¥ä¸Šå¦ä¸€ä¸ªæ–¹æ‹¬å·ï¼Œè€Œåœ¨ç¬¬äºŒä¸ªæ–¹æ‹¬å·é‡Œé¢è¦å¡«å…¥ç”¨ä»¥è¾¨è¯†é“¾æŽ¥çš„æ ‡è®°ï¼š
 
     This is [an example][id] reference-style link.
     [id]: http://example.com/  "Optional Title Here"
     
-Ð§¹û£º
+æ•ˆæžœï¼š
 
 This is [an example][id] reference-style link.
 
-ÏÂÃæÊÇÒ»¸ö²Î¿¼Ê½Á´½ÓµÄ·¶Àý£º
+ä¸‹é¢æ˜¯ä¸€ä¸ªå‚è€ƒå¼é“¾æŽ¥çš„èŒƒä¾‹ï¼š
 
     [id]: http://example.com/  "Optional Title Here"
     I get 10 times more traffic from [Google] [1] than from
@@ -173,7 +173,7 @@ This is [an example][id] reference-style link.
       [2]: http://search.yahoo.com/  "Yahoo Search"
       [3]: http://search.msn.com/    "MSN Search"
       
-Ð§¹û£º
+æ•ˆæžœï¼š
 I get 10 times more traffic from [Google] [1] than from
 [Yahoo] [2] or [MSN] [3].
 
@@ -181,20 +181,20 @@ I get 10 times more traffic from [Google] [1] than from
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
 
-###Í¼Æ¬
+###å›¾ç‰‡
 
-markdown¶ÔÍ¼Æ¬µÄ´¦ÀíÓëÁ´½ÓÀàËÆ£¬Í¬ÑùÒ²ÔÊÐíÁ½ÖÖÑùÊ½£º ÐÐÄÚÊ½ºÍ²Î¿¼Ê½¡£
+markdownå¯¹å›¾ç‰‡çš„å¤„ç†ä¸Žé“¾æŽ¥ç±»ä¼¼ï¼ŒåŒæ ·ä¹Ÿå…è®¸ä¸¤ç§æ ·å¼ï¼š è¡Œå†…å¼å’Œå‚è€ƒå¼ã€‚
 
     ![Alt text](/path/to/img.jpg)
 
     ![Alt text](/path/to/img.jpg "Optional title")
     
-ÊµÀý£º
+å®žä¾‹ï¼š
 
     ![douban book](http://img5.douban.com/lpic/s27197149.jpg)
     
     
 ![douban book](http://img5.douban.com/lpic/s27197149.jpg)
 
-ÎÄÕÂ²Î¿¼£º[Markdown Óï·¨ËµÃ÷ (¼òÌåÖÐÎÄ°æ)](http://wowubuntu.com/markdown)
+æ–‡ç« å‚è€ƒï¼š[Markdown è¯­æ³•è¯´æ˜Ž (ç®€ä½“ä¸­æ–‡ç‰ˆ)](http://wowubuntu.com/markdown)
 
