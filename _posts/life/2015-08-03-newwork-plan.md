@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 新的开始
-category: 生活
+category: 技术
 tags: 新工作
 description: 对新工作的一些展望
 ---
