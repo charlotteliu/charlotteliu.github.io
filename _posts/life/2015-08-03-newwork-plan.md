@@ -1,6 +1,6 @@
 ---
 layout: post
-title:新的开始
+title: 新的开始
 category: 生活
 tags: 新工作
 description: 对新工作的一些展望
